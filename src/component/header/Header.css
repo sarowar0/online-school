@@ -1,0 +1,20 @@
+.header h3{
+    color:lightseagreen;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Lobster', cursive;
+    letter-spacing:6px;
+    margin: 20px 0px;
+}
+.header nav {
+    background-color:lightseagreen;
+}
+.header nav a {
+    color:white;
+    padding: 8px 20px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: "Helvetica Neue",;
+}

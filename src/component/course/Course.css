@@ -1,0 +1,24 @@
+.course{
+    width: 33%;
+    float: left;
+
+}
+.course img{width:100%}
+.content{
+    padding:15px;
+    height: 160px;
+}
+.content h6{
+    font-weight: 700;
+}
+.content button{
+    background-color: gold;
+    padding:3px 25px;
+    border:1px solid gray;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.content p{
+    line-height: 8px;
+}
